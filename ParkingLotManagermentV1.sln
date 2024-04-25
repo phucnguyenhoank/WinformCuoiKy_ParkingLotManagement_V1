@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLotManagement", "ParkingLotManagerment\ParkingLotManagement.csproj", "{F6C72F15-0932-4F04-A597-FB51A175881A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{C1D1DE17-3EF2-4D93-810B-2A57ACF8B013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{53C8304F-43AE-490A-8403-DA6493588A13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C72F15-0932-4F04-A597-FB51A175881A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C72F15-0932-4F04-A597-FB51A175881A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C72F15-0932-4F04-A597-FB51A175881A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C72F15-0932-4F04-A597-FB51A175881A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D1DE17-3EF2-4D93-810B-2A57ACF8B013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D1DE17-3EF2-4D93-810B-2A57ACF8B013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D1DE17-3EF2-4D93-810B-2A57ACF8B013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D1DE17-3EF2-4D93-810B-2A57ACF8B013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C8304F-43AE-490A-8403-DA6493588A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C8304F-43AE-490A-8403-DA6493588A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C8304F-43AE-490A-8403-DA6493588A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C8304F-43AE-490A-8403-DA6493588A13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71453A47-10C6-496E-B35B-CBABD205AD39}
+	EndGlobalSection
+EndGlobal
